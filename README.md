@@ -1,7 +1,7 @@
 # DIP_calculator
 
 # MyCalculator
-ตัวอย่างโครงการในวิชา
+ตัวอย่างโครงการในวิชา AI
 
 ## Introduction
 เครื่องคิดเลขนะจ๊ะ จุ๊บๆ
@@ -11,7 +11,7 @@
 2. execute python main.py
 
 ## Disclaimer
-for educational purpose only. Run on your own risk.
+For educational purpose only. Run on your own risk.
 
 ## Note
     29/11/2023
